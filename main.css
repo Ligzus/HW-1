@@ -97,11 +97,13 @@
     font-style: normal;
     font-weight: 600;
     line-height: 32px;
+}
 
-    .gamecard_item {        
-        margin-left: 32px;
-        margin-bottom: 32px;
-    }
+.gamecard_item {        
+    margin-left: 32px;
+    margin-bottom: 32px;
+    text-decoration: none; 
+    color: #FFF;
 }
 
 .gamecard:hover {
